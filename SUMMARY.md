@@ -9,6 +9,7 @@
 * [Git](git.md)
 * [ZXXz](zxxz.md)
 * [Get started](get-started.md)
+* [Code](code.md)
 
 ## Methods
 
