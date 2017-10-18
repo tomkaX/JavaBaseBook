@@ -8,6 +8,7 @@
   * [code](java/code.md)
 * [Git](git.md)
 * [ZXXz](zxxz.md)
+* [Get started](get-started.md)
 
 ## Methods
 
