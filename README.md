@@ -20,3 +20,8 @@ The best and recommended way to install Oracle JAVA is to use a PPA and install 
 ## apt-get update
 ## apt-get install oracle-java8-installer
 ## apt-get install oracle-java8-set-default
+VERIFY JAVA INSTALLATION
+
+To verify if JAVA has been successfully installed and set-up, run the following command:
+
+## java -version
