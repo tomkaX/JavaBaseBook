@@ -35,4 +35,6 @@ SET-UP TEST GRAILS PROJECT
 ## cd /projects/test-project
 ## grails run-appOnce the Grails application is deployed, you can access it at http://SERVER_IP:8080/projects/test-project . To learn more about Grails, refer to their official documentation at http://grails.org/doc/latest/
 
+Once the Grails application is deployed, you can access it at http://SERVER_IP:8080/projects/test-project . To learn more about Grails, refer to their official documentation at http://grails.org/doc/latest/
+
 
