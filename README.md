@@ -33,4 +33,6 @@ SET-UP TEST GRAILS PROJECT
 ## mkdir /projects
 ## grails create-app /projects/test-project
 ## cd /projects/test-project
-## grails run-app
+## grails run-appOnce the Grails application is deployed, you can access it at http://SERVER_IP:8080/projects/test-project . To learn more about Grails, refer to their official documentation at http://grails.org/doc/latest/
+
+
