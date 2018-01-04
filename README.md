@@ -28,12 +28,6 @@ To verify if JAVA has been successfully installed and set-up, run the following 
 Installing GVM (Grails/Groovy environment) is done by their automatic shell script installer. You need curl to download and run the script, so run the following commands:
 
 ## apt-get install curl
-## curl -s get.gvmtool.net | bash
-SET-UP TEST GRAILS PROJECT
-## mkdir /projects
-## grails create-app /projects/test-project
-## cd /projects/test-project
-## grails run-appOnce the Grails application is deployed, you can access it at http://SERVER_IP:8080/projects/test-project . To learn more about Grails, refer to their official documentation at http://grails.org/doc/latest/
 
 Once the Grails application is deployed, you can access it at http://SERVER_IP:8080/projects/test-project . To learn more about Grails, refer to their official documentation at http://grails.org/doc/latest/
 
